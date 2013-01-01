@@ -28,3 +28,5 @@
  ""                     ;required image type
  SF-IMAGE       "Image" 0
 )
+(script-fu-menu-register "quick-selection-shrink" "<Image>/Select")
+(script-fu-menu-register "quick-selection-grow" "<Image>/Select")
